@@ -11,7 +11,7 @@ This is a simple Node.js web application using the Express framework.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CS360-my-node-server.git
+   git clone https://github.com/rattanat/CS360-my-node-server.git
    cd CS360-my-node-server
 2. Install dependencies:
    npm install
