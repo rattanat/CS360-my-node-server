@@ -12,7 +12,7 @@ This is a simple Node.js web application using the Express framework.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/my-node-server.git
-   cd my-node-server
+   cd CS360-my-node-server
 2. Install dependencies:
    npm install
 3. Start the server:
