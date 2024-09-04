@@ -4,7 +4,7 @@ This is a simple Node.js web application using the Express framework.
 
 ## Prerequisites
 
-- Node.js
+- [Node.js](https://nodejs.org/en/download/package-manager)
 - npm (Node Package Manager)
 
 ## Getting Started
